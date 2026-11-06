@@ -1,0 +1,50 @@
+filename = "Sildur's Vibrant Shaders v2.02 Lite.zip"
+name = "Sildur's Vibrant shaders"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.7.10',
+    '1.8.9',
+    '1.9.4',
+    '1.10.2',
+    '1.11.2',
+    '1.12.2',
+    '1.13.2',
+    '1.14.4',
+    '1.15.2',
+    '1.16.5',
+    '1.17.1',
+    '1.18.2',
+    '1.19.4',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2',
+    '26.3'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Sildur's Vibrant Shaders v2.02 Lite.zip"
+
+[download]
+hash = '9d2a2be38fd3f1645887b45a8d94ae653b97a72e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8889128
+project-id = 544096

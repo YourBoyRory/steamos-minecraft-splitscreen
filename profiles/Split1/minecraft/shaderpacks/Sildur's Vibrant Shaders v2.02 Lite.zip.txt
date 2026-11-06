@@ -1,0 +1,7 @@
+#Thu Nov 05 10:36:28 EST 2026
+shadowMapResolution=1024
+waterA=0.1
+waterCB=0.1
+waterCG=0.1
+waterRefl=true
+watertex=true

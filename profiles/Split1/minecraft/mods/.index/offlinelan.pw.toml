@@ -1,0 +1,18 @@
+filename = 'offlinelan-2.0.0+26.2.jar'
+name = 'OfflineLAN'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0'
+
+[download]
+hash = '278414c67e8fb0b0b86ab6e50605c57622cd1b2b4fcf197475f3ada51ac5e4ba0db8a5938a077c80e743afcd2803bc910836f357afa941c4b86b917d67896588'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pimmstPB/versions/9YQrrv3Q/offlinelan-2.0.0%2B26.2.jar'
+
+[update.modrinth]
+mod-id = 'pimmstPB'
+version = '9YQrrv3Q'

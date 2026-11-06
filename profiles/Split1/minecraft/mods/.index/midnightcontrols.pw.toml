@@ -1,0 +1,25 @@
+filename = 'midnightcontrols-fabric-1.12.1+26.2.jar'
+name = 'MidnightControls'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.12.1+26.2-fabric'
+
+[download]
+hash = 'd0f76ecc7aec8d08e1ff978fe784aaac6df7523721e7b135e608914b5e85af7426c9e5fda3b4d87e997b2d1ddc87b3b839c116d03a2241a26cfd76e6161727f5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bXX9h73M/versions/5kdN2hnR/midnightcontrols-fabric-1.12.1%2B26.2.jar'
+
+[update.modrinth]
+mod-id = 'bXX9h73M'
+version = '5kdN2hnR'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'codAaoxh'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
