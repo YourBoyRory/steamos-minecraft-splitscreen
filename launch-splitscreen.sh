@@ -17,6 +17,9 @@ elif [[ "$1" == "3" ]]; then
     run_player 2 'TOP_RIGHT' &
     run_player 1 'TOP_LEFT'
 elif [[ "$1" == "2" ]]; then
+    run_player 2 'BOTTOM' &
+    run_player 1 'TOP'
+elif [[ "$1" == "2V" ]]; then
     run_player 2 'RIGHT' &
     run_player 1 'LEFT'
 else
